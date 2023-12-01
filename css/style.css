@@ -1,6 +1,9 @@
 h1{
     color: blue;
 }
+a{
+    color: red;
+}
 canvas {
     background: #222;
     display: block;
